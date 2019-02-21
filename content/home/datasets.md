@@ -3,7 +3,7 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "Datasets"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -12,13 +12,13 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "datasets"
 
 # View.
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view = 3
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
