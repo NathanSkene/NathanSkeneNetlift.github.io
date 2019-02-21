@@ -91,7 +91,7 @@ email = ""
 
 +++
 
-Our research focuses on simple questions about complex brain traits: where do they occur (in which cell types)? When do they occur (at which developmental stages)? How do they occur (which quantitative traits of cells are affected)? We aim to develop the methods and datasets required to enable these questions to be answered systematically for any trait for which well-powered genetic data is available.
+My research focuses on simple questions about complex brain traits: where do they occur (in which cell types)? When do they occur (at which developmental stages)? How do they occur (which quantitative traits of cells are affected)? We aim to develop the methods and datasets required to enable these questions to be answered systematically for any trait for which well-powered genetic data is available.
 
 The most complete and unbiased data source currently available for the brain comes from single cell RNA-sequencing: an atlas of almost every cell type found in the central, peripheral and enteric nervous system is <a href="http://mousebrain.org/">available</a>. Using this dataset and other's like it we have investigated the cell types underlying <a href="https://www.nature.com/articles/s41588-018-0129-5.pdf">Schizophrenia</a>, <a href="https://www.biorxiv.org/content/10.1101/528463v1">Alzheimer's disease, Parkinsons, Stroke</a> and <a href="https://www.nature.com/articles/s41588-018-0152-6">cognitive ability</a>. To get greater accuracy in interpreting genetic data we need to go beyond mouse single cell RNA-seq data though: we plan to obtain human cell atlases using ATAC-seq and other genomic techniques.
 
