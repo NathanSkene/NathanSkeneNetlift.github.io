@@ -38,7 +38,8 @@ email = ""
 #user_groups = ["Researchers", "Visitors"]
 #user_groups = ["Principal Investigators"]
 #user_groups = ["Principal Investigators"]
-user_groups = ["Principal Investigators"]
+#user_groups = ["Principal Investigators"]
+user_groups = ["Edmond and Lily Safra – UK DRI Fellow"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
