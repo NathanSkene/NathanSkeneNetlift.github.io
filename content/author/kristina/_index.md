@@ -17,7 +17,7 @@ organizations = [ { name = "UK Dementia Research Institute", url = "https://ukdr
   { name = "Imperial College", url = "https://www.imperial.ac.uk/dementia-research-institute/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Visiting on the ERASMUS programme from the Vrije University of Amsterdam"
+bio = "Visiting on the Erasmus programme from the Vrije University of Amsterdam"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -84,5 +84,5 @@ user_groups = ["Masters Students"]
 
 +++
 
-I am a second-year Master student in Neuroscience at the Vrije University Amsterdam. I previously did my BSc in Psychology at Leiden. During previous internships, I worked with fMRI data and with human post-mortem tissue. As part of my programme I took courses on complex trait genetics which drove my growing interest in bioinformatics. After reading the lab's paper on genetic identification of brain cell types in schizophrenia I arranged to visit the neurogenomics lab at Imperial as a Eurasmus student.
+I am a second-year Master student in Neuroscience at the Vrije University Amsterdam. I previously did my BSc in Psychology at Leiden. During previous internships, I worked with fMRI data and with human post-mortem tissue. As part of my programme I took courses on complex trait genetics which drove my growing interest in bioinformatics. After reading the lab's paper on genetic identification of brain cell types in schizophrenia I arranged to visit the neurogenomics lab at Imperial as a Erasmus student.
 
