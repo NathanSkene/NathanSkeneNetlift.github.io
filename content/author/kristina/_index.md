@@ -9,7 +9,7 @@ authors = ["kristina"]
 superuser = false
 
 # Role/position
-role = "Masters Students" 
+role = "Erasmus funded visting masters Student" 
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -84,5 +84,5 @@ user_groups = ["Masters Students"]
 
 +++
 
-I am a second-year Master student in Neuroscience at the Vrije University Amsterdam. I previously did my BSc in Psychology at Leiden. During previous internships, I worked with fMRI data and with human post-mortem tissue. As part of my programme I took courses on complex trait genetics which drove my growing interest in bioinformatics. After reading the lab's paper on genetic identification of brain cell types in schizophrenia I arranged to visit the neurogenomics lab at Imperial as a EURASMUS student.
+I am a second-year Master student in Neuroscience at the Vrije University Amsterdam. I previously did my BSc in Psychology at Leiden. During previous internships, I worked with fMRI data and with human post-mortem tissue. As part of my programme I took courses on complex trait genetics which drove my growing interest in bioinformatics. After reading the lab's paper on genetic identification of brain cell types in schizophrenia I arranged to visit the neurogenomics lab at Imperial as a Eurasmus student.
 
