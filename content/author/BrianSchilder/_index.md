@@ -23,7 +23,7 @@ bio = "As a researcher with experiences in a variety of fields, I am a believer 
 email = ""
 
 # List (academic) interests or hobbies
-interests = [high-throughput genomic, transcriptomic, epigenomics, ultra-marathon running and music production]
+interests = []
 
   
 
@@ -69,7 +69,7 @@ user_groups = ["PhD Students"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/BMSchilder
+  link = "https://twitter.com/BMSchilder"
 #
 [[social]]
   icon = "google-scholar"
