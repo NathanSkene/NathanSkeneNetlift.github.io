@@ -86,7 +86,7 @@ user_groups = ["PhD Students"]
 [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "https://bschilder.github.io/BMSchilder  "
+   link = "https://bschilder.github.io/BMSchilder"
 
 +++
 

@@ -11,7 +11,8 @@ weight = 3
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Edmond and Lily Safra – UK DRI Fellow",
+#user_groups = ["Edmond and Lily Safra – UK DRI Fellow",
+user_groups = ["Principle Investigators",
         "PhD Students",
         "Post-doctoral Researchers",
         "Masters Students",
